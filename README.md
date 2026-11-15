@@ -1,4 +1,10 @@
+[![make.fun · markdown-render-speed-02](https://make.fun/badge/markdown-render-speed-02.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![rank](https://make.fun/badge/markdown-render-speed-02/dnnsprytmn/markdown-render-speed/rank.svg)](https://make.fun/bounty/markdown-render-speed-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+[![reward](https://make.fun/badge/markdown-render-speed-02/dnnsprytmn/markdown-render-speed/reward.svg)](https://make.fun/bounty/markdown-render-speed-02?utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02)
+
 # Markdown renderer
+
+This project is entered in the [make.fun markdown-render-speed-02 bounty](https://make.fun/bounty/markdown-render-speed-02).
 
 A dependency-free Markdown to HTML renderer for the `program/v1` harness. It runs on Node.js 22 or later and keeps per-document state isolated.
 
@@ -19,3 +25,7 @@ The parser implements common block and inline Markdown features, including ATX a
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+---
+
+Entry: [make.fun](https://make.fun/?ref=hcje3a1b&utm_source=github&utm_medium=readme&utm_campaign=markdown-render-speed-02) · Referral code: `hcje3a1b`
