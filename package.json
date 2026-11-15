@@ -1,0 +1,9 @@
+{
+  "name": "markdown-render-speed",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node main.ts" },
+  "dependencies": {}
+}
